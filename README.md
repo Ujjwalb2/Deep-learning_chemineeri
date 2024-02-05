@@ -1,1 +1,2 @@
-# Deep-learning_chemineeri
+# Deep learning projects  learning and assignment
+
